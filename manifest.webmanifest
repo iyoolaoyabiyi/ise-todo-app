@@ -1,7 +1,7 @@
 {
-  "name": "Ìṣẹ́ — Make time matter",
+  "name": "Ìṣẹ́ | Do things",
   "short_name": "Ìṣẹ́",
-  "description": "A calm, capable workspace for everything that matters.",
+  "description": "A calm, local-first space to plan your day, organise projects, and see your progress.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
